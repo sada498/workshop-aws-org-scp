@@ -36,7 +36,4 @@ changes, simply switch to the corresponding git branch of the next step.
 
 ![Architecture](./diagrams/architecture.png)
 
-## Special Thanks
-*   Priya Mandiga
-*   Simon Warren
-*   Robert Rocco
+
